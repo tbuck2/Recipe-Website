@@ -1,0 +1,39 @@
+h1{
+	color: white;
+	font-size:90px;
+	padding-left:80px;
+	border: black 20px dotted;
+	margin-right: 20%;
+
+}
+
+body{
+	font-family:courier;
+	font-size: 30px;
+	
+}
+h2{
+	border-bottom-color:white;
+	margin-left: 5%;
+	
+	
+}
+a:hover{
+color: yellow;
+	
+}
+a{
+	
+	font-size:35px;
+	padding-right:50px;
+}
+ span{
+	 color: orange;
+	 font-weight:bold;
+	 
+ }
+	
+img{
+display:block;
+margin-left: 5%;
+}

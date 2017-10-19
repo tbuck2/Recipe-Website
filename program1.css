@@ -1,0 +1,64 @@
+.recipe{
+	background:#FFCC00;
+}
+.recipe2{
+	background: url("lemonback.jpg");
+}
+
+h1, h2, h3{
+letter-spacing: 3px;
+}
+h1,h2,caption{
+	background-color:#F0F0F0
+
+
+}
+
+h1,h2,caption{
+	color:#A4A400;
+	text-align:center;
+	font-family:Century Gothic;
+}
+
+a{
+margin-left: 10px;
+
+
+}
+
+li{
+padding-left: 30px;
+}
+th{
+	background-color:#003366;
+	border-bottom: 2px white solid;
+	border-right:2px white solid;
+}
+td{
+	background:#CC9933;
+	border-bottom: 2px white solid;
+	border-left:2px white solid;
+}
+table{
+	font-family: century gothic;
+	background:#CC9933;
+	color:#FFFFFF;
+	margin: 20px;
+	border: 2px white solid;
+
+}
+span{
+	font-size: 25px;
+	background: #A4A400;
+	border-right: 20px #003366 solid;
+}
+.recipe2 ul{
+	list-style-image: url('arrow.jpg');
+}
+.recipe2 img{
+	width: 350px;
+	display:block;
+	margin:auto;
+}
+
+
