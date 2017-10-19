@@ -1,8 +1,7 @@
 
-
 body{
-  margin-left: 20%;
-  margin-right:20%;
+  margin-left: 15%;
+  margin-right:15%;
   text-align: center;
 
 }
@@ -10,7 +9,7 @@ body{
 
 div{
 
-border: 10px white solid
+border: 10px lightgrey solid
 }
 h2{
 border: 4px #C2E9E9 solid
@@ -18,11 +17,12 @@ border: 4px #C2E9E9 solid
 h2{ 
 padding: 40px;
 margin: 20px;
-background-color: #E8FBFB
+background-color:  #FFF0F5
 }
 
 h3{
-background-color: #A8F0F0
+background-color: #E8FBFB
+
 
 }
 h3{
